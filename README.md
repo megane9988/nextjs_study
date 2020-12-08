@@ -1,3 +1,12 @@
+下記のチュートリアルを学習するためのリポジトリです。
+
+大幅にリニューアルされた Next.js のチュートリアルをどこよりも早く全編和訳しました - Qiita
+https://qiita.com/thesugar/items/01896c1faa8241e6b1bc
+
+をよみながら作業しています。和訳ありがたいです。
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
